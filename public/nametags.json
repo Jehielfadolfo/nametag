@@ -1,0 +1,33 @@
+{
+    "none": {
+        "displayName": "None"
+    },
+    "menu-bkg": {
+        "displayName": "None",
+        "resourceName": "NameTag1Blender.glb"
+    },
+    "plain": {
+        "displayName": "Plain",
+        "resourceName": "NameTag1Blender.glb",
+        "label_position": {
+            "x": 0,
+            "y": 0.05,
+            "z": 0.3
+        },
+        "scale": {
+            "x": 0.1,
+            "y": 0.1,
+            "z": 0.1
+        },
+        "rotation": {
+            "x": 90,
+            "y": 0,
+            "z": 0
+        },
+        "position": {
+            "x": 0.1,
+            "y": -0.1,
+            "z": 0.18
+        }
+    }
+}
